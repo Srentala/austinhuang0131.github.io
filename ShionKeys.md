@@ -3,9 +3,7 @@ title: ShionKeys - A Future-oriented Super-simple-ergonomic cross-device keyboar
 comments: true
 ---
 
-<title>ShionKeys - A Future-oriented Super-simple-ergonomic cross-device keyboard</title>
-
-**I don't own this project, nor do I want to claim ownership of it!** I simply translated it out of curiousity and support. For inquiries about the project itself, please speak to Shion ([Email](mailto:shion@protonmail.com) / [Mastodon](https://mastodon.social/@ShionKeys)), the creator. For inquiries about this translation, please speak to [Austin Huang](https://austinhuang.me) ([Email](mailto:im@austinhuang.me)). Here's the [original text](https://github.com/austinhuang0131/ShionKeys/blob/3e706d8c632d24aeedca89228d9b29f67a366371/README.org) in Chinese.
+**I don't own this project, nor do I want to claim ownership of it!** I simply translated it out of curiousity and support. **For inquiries about the project itself, please speak to Shion ([Email](mailto:shion@protonmail.com) / [Mastodon](https://mastodon.social/@ShionKeys)), the creator.** Here's the [original text](https://github.com/austinhuang0131/ShionKeys/blob/3e706d8c632d24aeedca89228d9b29f67a366371/README.org) in Chinese.
 
 ---
 
