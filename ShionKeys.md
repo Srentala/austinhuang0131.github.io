@@ -48,14 +48,14 @@ If all plans of fundraising have failed, crowdfunding will be the last resort. A
 
 Email: [Shion@protonmail.com](mailto:shion@protonmail.com)
 
-![](shionkeys.jpg)
-
-![](ShionKeys_1.png)
-
 <video width="100%" controls>
   <source src="https://files.mastodon.social/media_attachments/files/002/585/328/original/c64a254d185c5fe9.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+![](./assets/shionkeys.jpg)
+
+![](./assets/ShionKeys_1.png)
 
 *Translated November 5, 2017 in Montréal, Canada. 1st revision at December 19, 2017.*
 
